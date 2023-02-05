@@ -1,4 +1,4 @@
-# Bal-L-immac-Account_Creator
+# Bal-Account_Creator
 Ce programme a été conçu intialement dans le cadre d'un bal de fin d'année organisé pour le bac 2022.
 Un site avait été conçu pour l'occasion, un simple systeème de vote pour élire les rois et reines de la soirée.
 
